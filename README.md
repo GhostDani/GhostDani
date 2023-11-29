@@ -1,6 +1,16 @@
 <img align="right" height="480em" src="https://raw.githubusercontent.com/gist/GhostDani/5d63bd472e0570ec1de7fb13d1095067/raw/be3adbe44c770b1210927235822d35c022e490f7/githubcard.svg"/>
 
-[![Blog](https://img.shields.io/website?label=www.criaseu.site&style=for-the-badge&url=https://www.criaseu.site/)](https:/www.criaseu.site)
+## Contato:
+
+<a href="https://linkedin.com/in/danielsilva-701a29" target="_blank">
+  <img align="center" height="25em" src="https://img.shields.io/badge/-Daniel Silva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.criaseu.site" target="_blank">
+  <img align="center" height="25em" src="https://img.shields.io/badge/-criaseu.site-05122A?style=flat&logo=internet-explorer" alt="linkedin"/>
+</a>
+<a href="https://api.whatsapp.com/message/F3NDT5UHQQ5DK1?autoload=1&app_absent=0" target="_blank">
+  <img align="center" height="25em" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="linkedin"/>
+</a>
 
 ## Tecnologias que estou estudando e Usando:
 
